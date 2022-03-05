@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Style Guide
-image: 참새.jpg
-date: 2022-03-06 00:17:00 +0900
-tags: [jekyll, docs]
-categories: guide
+title: The best way to decorate your desktop
+image: 10.jpg
+date: 2018-02-06 10:05:20 +0200
+tags: [workflow, decoration]
+categories: decoration
 ---
 
 # 안녕하세요
