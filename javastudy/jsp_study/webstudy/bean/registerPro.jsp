@@ -24,7 +24,7 @@
     <td><jsp:getProperty name="registerBean" property="pwd"/></td>
   </tr>
   <tr>
-    <td>이름</td>
+    <td>이름</td>	
     <td><jsp:getProperty name="registerBean" property="name"/></td>
   </tr>
   <tr>
